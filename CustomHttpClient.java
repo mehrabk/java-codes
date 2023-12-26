@@ -1,4 +1,3 @@
-package com.misc.bis.commonUtils;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
